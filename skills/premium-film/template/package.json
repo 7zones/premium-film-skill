@@ -1,0 +1,35 @@
+{
+  "name": "film",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "description": "A premium motion film built with Remotion",
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.1",
+    "@remotion/cli": "4.0.529",
+    "@remotion/google-fonts": "4.0.529",
+    "@remotion/layout-utils": "4.0.529",
+    "@remotion/media": "4.0.529",
+    "@remotion/noise": "4.0.529",
+    "@remotion/three": "4.0.529",
+    "@types/three": "0.184.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.529",
+    "three": "0.184.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "cues": "node --no-warnings --experimental-strip-types scripts/export-cues.mts"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

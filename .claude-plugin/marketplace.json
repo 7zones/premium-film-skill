@@ -1,0 +1,14 @@
+{
+  "name": "premium-film-skill",
+  "description": "Premium, fact-checked videos that follow your brand guidelines, made with Claude Code.",
+  "owner": {
+    "name": "Premium Film"
+  },
+  "plugins": [
+    {
+      "name": "premium-film",
+      "source": "./",
+      "description": "Premium, fact-checked videos that follow your brand guidelines, made in code with Remotion."
+    }
+  ]
+}

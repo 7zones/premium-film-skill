@@ -1,0 +1,20 @@
+{
+  "name": "premium-film",
+  "displayName": "Premium Film",
+  "description": "Premium, fact-checked videos that follow your brand guidelines, made in code with Remotion: motion design, 3D, narration, music and captions.",
+  "homepage": "https://github.com/tadyuh76/premium-film-skill",
+  "repository": "https://github.com/tadyuh76/premium-film-skill",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "remotion",
+    "motion-graphics",
+    "film",
+    "3d",
+    "narration",
+    "tts",
+    "music",
+    "captions",
+    "skill"
+  ]
+}
